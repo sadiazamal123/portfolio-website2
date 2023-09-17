@@ -1,0 +1,53 @@
+/* section 1 start */
+.section1{
+    padding-bottom: 70px;
+    padding-top: 170px;
+}
+.section1 p{
+    color: #777777;
+}
+/* section 1 end */
+/* section 2 start */
+.section2{
+    padding: 70px 0px;
+}
+.section2 p{
+    color: #777777;
+}
+/* section 2 end */
+/* section 3 start */
+.section3{
+    padding-bottom: 70px;
+}
+.section3 p{
+    color: #777777;
+}
+/* .feature-pad{
+    padding-bottom: 50px;
+} */
+/* section 3 end */
+/* section 4 start */
+.section4{
+    padding-bottom: 140px;
+}
+.section4 p{
+    color: #777777;
+}
+.section4-heading{
+    padding: 70px 0px;
+}
+.feedback-pad{
+    padding: 15px 0px;
+}
+/* section 4 end */
+/* footer start */
+footer h5{
+    color: #fff;
+}
+footer p{
+    color: #777777;;
+}
+.footer-pad{
+    padding: 70px 0px;
+}
+/* footer end */
